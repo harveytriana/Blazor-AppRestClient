@@ -100,4 +100,4 @@ else {
 
 ---
 
-`Source: (Blazor Spread)[https://www.blazorspread.net]`
+Source: [Blazor Spread](https://www.blazorspread.net)
