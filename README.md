@@ -1,7 +1,5 @@
 ﻿# How to enable a Blazor application as a client of a third-party REST API
 
----
-
 If we want a Blazor client server system, we usually program a Blazor application hosted on ASP.NET Core. In the case that the REST server is a separate application, be it Asp.NET Core, Django, NodeJS, others, we can perfectly enable our Blazor Wasm application and use the REST services of that server. We need the following:
 
 1. The REST server allows the URL of the Blazor application in CORS
