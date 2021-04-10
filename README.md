@@ -100,4 +100,4 @@ else {
 
 ---
 
-Source: [Blazor Spread](https://www.blazorspread.net)
+By: [Blazor Spread](https://www.blazorspread.net)
