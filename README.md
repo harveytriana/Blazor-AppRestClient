@@ -98,6 +98,8 @@ else {
 
 > This is the classic example of the default ASP.NET Core Web API template. Note that I use a register type to decode the read data. Of course it is more effect than doing it with a class.
 
+**Note**: For the execution of the example, check the *Multiple startup projects* box in Solution Properties, and assign Start in both projects.
+
 ---
 
 By: [Blazor Spread](https://www.blazorspread.net)
