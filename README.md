@@ -102,4 +102,4 @@ else {
 
 ---
 
-By: [Blazor Spread](https://www.blazorspread.net)
+By: [Blazor Spread](https://www.blazorspread.net) - Harvey Triana
