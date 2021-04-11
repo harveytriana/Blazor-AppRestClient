@@ -1,4 +1,9 @@
-﻿@page "/fetchdata"
+﻿@*
+    ===========================
+        BlazorSpread.net
+    ===========================
+*@
+@page "/fetchdata"
 @inject IHttpClientFactory _clientFactory
 
 <h1>Weather forecast</h1>
@@ -40,7 +45,8 @@ else {
 
     WeatherForecast[] forecasts;
 
-    protected override async Task OnInitializedAsync() {
+    protected override async Task OnInitializedAsync()
+    {
         client = _clientFactory.CreateClient("AspNetApi");
         await Update();
     }
